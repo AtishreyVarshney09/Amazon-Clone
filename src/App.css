@@ -24,6 +24,15 @@
   color: white;
 }
 
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f1f3f6;
+}
+
+
+
+
 .App-link {
   color: #61dafb;
 }
